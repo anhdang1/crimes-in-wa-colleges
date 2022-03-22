@@ -9,8 +9,7 @@ library("rbokeh")
 library(lubridate)
 
 #From 2001 - 2020
-disciplinary_on_campus <- read.csv('https://raw.githubusercontent.com/anhdang1/crime_wa_colleges/main/OPE%20CSS%20Custom%20Data%202022-03-13%20164937/Disciplinary_Actions_On_campus.csv')
-disciplinary_public_property <- read.csv('https://raw.githubusercontent.com/anhdang1/crime_wa_colleges/main/OPE%20CSS%20Custom%20Data%202022-03-13%20164937/Disciplinary_Actions_Public_Property.csv')
+disciplinary_on_campus <- read.csv('https://raw.githubusercontent.com/anhdang1/crimes-in-wa-colleges/main/OPE%20CSS%20Custom%20Data%202022-03-13%20164937/Disciplinary_Actions_On_campus.csv')
 
 
 #Rename columns
@@ -34,7 +33,7 @@ count_range <- range(discip_oncampus_public$Survey.year)
 disciplinary_types <- disciplinary_on_campus %>% group_by(Survey.year) %>% summarize(Illegal_weapons = sum(Illegal_weapons),
                                                                                      Drug_law = sum(Drug_law),
                                                                                      Liquor_law = sum(Liquor_law))
-
+#Sum total disciplinary actions 
 discip_types_table <- disciplinary_types %>%
   pivot_longer(!Survey.year, names_to = "Disciplinary_actions", values_to = "Num_crimes")
 
