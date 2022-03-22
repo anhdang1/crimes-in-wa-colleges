@@ -3,7 +3,7 @@
 
 Authors: Anh Dang 
 
-Link:[Here](https://anhdang1.shinyapps.io/crimes-in-wa-colleges/)
+Link: [Crime Acorss WA Colleges Analysis](https://anhdang1.shinyapps.io/crimes-in-wa-colleges/)
 
 # Introduction
 - Data Drawn from [Campus Safety and Security](https://ope.ed.gov/campussafety/#/)
