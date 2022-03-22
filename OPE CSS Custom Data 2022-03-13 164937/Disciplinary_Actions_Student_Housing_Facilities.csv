@@ -1,0 +1,475 @@
+Survey year,Unitid,Institution name,Campus ID, Campus Name,Institution Size,Illegal weapons possession,Drug law violations,Liquor law violations
+2008,235547,Bastyr University,1,Main Campus,988,0,0,0
+2008,234711,Big Bend Community College,1,Main Campus,1882,0,0,0
+2008,234827,Central Washington University,1,Central Washington University,10662,0,83,288
+2008,234845,Centralia College,1,Centralia College,3816,0,0,0
+2008,235097,Eastern Washington University,1,EWU Main Campus,10809,0,29,150
+2008,235103,Edmonds College,1,Main Campus,8989,0,0,0
+2008,235316,Gonzaga University,1,Main Campus,7272,2,7,370
+2008,235343,Green River College,1,Main Campus,7337,0,15,6
+2008,380377,Northwest Indian College,1,Lummi Campus,554,0,0,1
+2008,236133,Northwest University,1,Northwest University,1246,0,0,0
+2008,236230,Pacific Lutheran University,1,Main Campus,3652,0,22,109
+2008,236452,Saint Martin's University,1,Saint Martin's University Lacey Campus,1659,0,14,47
+2008,236577,Seattle Pacific University,1,Main Campus,3891,0,5,57
+2008,236595,Seattle University,1,Main Campus,7560,6,24,86
+2008,236638,Skagit Valley College,1,Mount Vernon Campus,5797,0,0,35
+2008,235167,The Evergreen State College,1,Main Campus,4696,0,59,29
+2008,236328,University of Puget Sound,1,Main Campus,2844,1,29,125
+2008,236948,University of Washington-Seattle Campus,1,Main Campus,39675,0,56,246
+2008,377564,University of Washington-Tacoma Campus,1,Tacoma Campus,2967,0,0,0
+2008,236896,Walla Walla University,1,Main Campus,1800,0,0,3
+2008,236939,Washington State University,1,Pullman Campus,25352,3,29,466
+2008,237011,Western Washington University,1,Bellingham Campus,14620,2,212,329
+2008,237057,Whitman College,1,Whitman College,1458,0,4,12
+2008,237066,Whitworth University,1,Main Campus,2704,0,0,26
+2008,237109,Yakima Valley College,1,Main Campus,4388,0,0,0
+2009,235547,Bastyr University,1,Main Campus,917,0,0,0
+2009,234711,Big Bend Community College,1,Main Campus,2169,0,0,0
+2009,234827,Central Washington University,1,Central Washington University,11357,0,105,472
+2009,234845,Centralia College,1,Centralia College,3574,0,0,0
+2009,235024,Cornish College of the Arts,1,Cornish College of the Arts,794,0,10,12
+2009,235097,Eastern Washington University,1,EWU Main Campus,11300,0,75,191
+2009,235103,Edmonds College,1,Main Campus,9658,0,0,0
+2009,235316,Gonzaga University,1,Main Campus,7633,0,47,736
+2009,235343,Green River College,1,Main Campus,8205,1,19,16
+2009,380377,Northwest Indian College,1,Lummi Campus,609,0,0,0
+2009,236133,Northwest University,1,Northwest University,1383,0,0,0
+2009,236230,Pacific Lutheran University,1,Main Campus,3581,0,16,115
+2009,236452,Saint Martin's University,1,Saint Martin's University Lacey Campus,1672,3,17,45
+2009,236577,Seattle Pacific University,1,Main Campus,4000,0,2,39
+2009,236595,Seattle University,1,Main Campus,7751,1,28,125
+2009,236638,Skagit Valley College,1,Mount Vernon Campus,5676,0,3,17
+2009,235167,The Evergreen State College,1,Main Campus,4891,0,27,45
+2009,236328,University of Puget Sound,1,Main Campus,2879,0,76,92
+2009,236948,University of Washington-Seattle Campus,1,Main Campus,45943,2,50,370
+2009,377564,University of Washington-Tacoma Campus,1,Tacoma Campus,3070,0,0,0
+2009,236896,Walla Walla University,1,Main Campus,1808,0,1,0
+2009,236939,Washington State University,1,Pullman Campus,26101,4,40,474
+2009,236975,Wenatchee Valley College,1,Main Campus,3423,0,0,0
+2009,237011,Western Washington University,1,Bellingham Campus,14575,0,117,314
+2009,237057,Whitman College,1,Whitman College,1515,0,26,16
+2009,237066,Whitworth University,1,Main Campus,2781,0,0,13
+2009,237109,Yakima Valley College,1,Main Campus,4724,0,1,0
+2010,235547,Bastyr University,1,Main Campus,970,0,0,0
+2010,234711,Big Bend Community College,1,Main Campus,2184,0,0,0
+2010,234827,Central Washington University,1,Central Washington University,11614,0,100,413
+2010,234845,Centralia College,1,Centralia College,3695,0,0,0
+2010,235024,Cornish College of the Arts,1,Cornish College of the Arts,836,0,36,39
+2010,235097,Eastern Washington University,1,EWU Main Campus,11534,2,51,235
+2010,235103,Edmonds College,1,Main Campus,10274,0,2,4
+2010,230889,Goddard College,2,Port Townsend,802,0,0,0
+2010,235316,Gonzaga University,1,Main Campus,7738,0,71,493
+2010,235343,Green River College,1,Main Campus,8361,0,9,33
+2010,235501,International Air and Hospitality Academy,1,Main Campus,487,0,0,0
+2010,380377,Northwest Indian College,1,Lummi Campus,626,0,0,0
+2010,236133,Northwest University,1,Northwest University,1422,0,4,2
+2010,236230,Pacific Lutheran University,1,Main Campus,3543,0,5,79
+2010,236452,Saint Martin's University,1,Saint Martin's University Lacey Campus,1811,0,12,12
+2010,236577,Seattle Pacific University,1,Main Campus,4117,0,7,62
+2010,236595,Seattle University,1,Main Campus,7817,0,37,173
+2010,236638,Skagit Valley College,1,Mount Vernon Campus,5722,0,8,21
+2010,235167,The Evergreen State College,1,Main Campus,4833,0,255,172
+2010,236328,University of Puget Sound,1,Main Campus,2823,1,34,208
+2010,236948,University of Washington-Seattle Campus,1,Main Campus,42451,0,67,297
+2010,377564,University of Washington-Tacoma Campus,1,Tacoma Campus,3331,0,0,0
+2010,236896,Walla Walla University,1,Main Campus,1791,0,2,2
+2010,236939,Washington State University,1,Pullman Campus,26308,2,41,391
+2010,236975,Wenatchee Valley College,1,Main Campus,3816,0,0,0
+2010,237011,Western Washington University,1,Bellingham Campus,14979,0,81,239
+2010,237057,Whitman College,1,Whitman College,1555,0,13,19
+2010,237066,Whitworth University,1,Main Campus,2989,0,3,27
+2010,237109,Yakima Valley College,1,Main Campus,4479,0,8,0
+2011,235547,Bastyr University,1,Main Campus,1018,0,0,0
+2011,234711,Big Bend Community College,1,Main Campus,1946,0,0,0
+2011,234827,Central Washington University,1,Central Washington University,11320,0,152,508
+2011,234845,Centralia College,1,Centralia College,3544,0,0,0
+2011,235024,Cornish College of the Arts,1,Cornish College of the Arts,833,0,38,33
+2011,235097,Eastern Washington University,1,EWU Main Campus,12126,1,37,82
+2011,235103,Edmonds College,1,Main Campus,9798,0,0,0
+2011,235149,Everett Community College,1,Everett Community College,6970,0,0,0
+2011,230889,Goddard College,2,Port Townsend,754,0,0,0
+2011,235316,Gonzaga University,1,Main Campus,7764,0,71,681
+2011,235343,Green River College,1,Main Campus,8309,0,12,43
+2011,235501,International Air and Hospitality Academy,1,Main Campus,485,0,0,0
+2011,380377,Northwest Indian College,1,Lummi Campus,701,0,0,0
+2011,236133,Northwest University,1,Northwest University,1558,0,0,0
+2011,236230,Pacific Lutheran University,1,Main Campus,3461,0,12,74
+2011,236452,Saint Martin's University,1,Saint Martin's University Lacey Campus,1800,1,19,62
+2011,236577,Seattle Pacific University,1,Main Campus,4167,0,11,37
+2011,236595,Seattle University,1,Main Campus,7755,2,44,270
+2011,236638,Skagit Valley College,1,Mount Vernon Campus,5136,1,7,7
+2011,235167,The Evergreen State College,1,Main Campus,4794,0,248,308
+2011,236328,University of Puget Sound,1,Main Campus,2918,1,84,205
+2011,377555,University of Washington-Bothell Campus,1,Bothell Campus,3759,0,5,19
+2011,236948,University of Washington-Seattle Campus,1,Main Campus,42444,0,177,447
+2011,377564,University of Washington-Tacoma Campus,1,Tacoma Campus,3657,0,0,0
+2011,236896,Walla Walla University,1,Main Campus,1831,0,1,0
+2011,236939,Washington State University,1,Pullman Campus,27329,0,49,299
+2011,236975,Wenatchee Valley College,1,Main Campus,3885,0,0,0
+2011,237011,Western Washington University,1,Bellingham Campus,14842,0,154,243
+2011,237057,Whitman College,1,Whitman College,1596,0,9,12
+2011,237066,Whitworth University,1,Main Campus,2506,0,4,17
+2011,237109,Yakima Valley College,1,Main Campus,4232,0,0,4
+2012,235547,Bastyr University,1,Main Campus,1028,0,0,0
+2012,234711,Big Bend Community College,1,Main Campus,1840,0,1,1
+2012,234827,Central Washington University,1,Central Washington University,11268,0,162,375
+2012,234845,Centralia College,1,Centralia College,3334,0,0,0
+2012,235024,Cornish College of the Arts,1,Cornish College of the Arts,791,0,29,27
+2012,235097,Eastern Washington University,1,EWU Main Campus,12587,0,13,110
+2012,235103,Edmonds College,1,Main Campus,9537,0,0,0
+2012,235149,Everett Community College,1,Everett Community College,6980,0,0,0
+2012,230889,Goddard College,2,Port Townsend,703,0,0,0
+2012,235316,Gonzaga University,1,Main Campus,7781,0,34,497
+2012,235343,Green River College,1,Main Campus,7709,0,13,17
+2012,235501,International Air and Hospitality Academy,1,Main Campus,382,0,0,0
+2012,380377,Northwest Indian College,1,Lummi Campus,699,0,0,0
+2012,236133,Northwest University,1,Northwest University,1612,0,0,0
+2012,236230,Pacific Lutheran University,1,Main Campus,3473,0,10,41
+2012,236452,Saint Martin's University,1,Saint Martin's University Lacey Campus,1823,0,8,61
+2012,236577,Seattle Pacific University,1,Main Campus,4095,0,27,48
+2012,236595,Seattle University,1,Main Campus,7484,0,93,94
+2012,236638,Skagit Valley College,1,Mount Vernon Campus,4834,0,4,3
+2012,235167,The Evergreen State College,1,Main Campus,4509,0,113,154
+2012,236328,University of Puget Sound,1,Main Campus,2853,0,39,243
+2012,377555,University of Washington-Bothell Campus,1,Bothell Campus,4172,1,10,38
+2012,236948,University of Washington-Seattle Campus,1,Main Campus,43485,1,186,539
+2012,377564,University of Washington-Tacoma Campus,1,Tacoma Campus,3919,0,0,0
+2012,236896,Walla Walla University,1,Main Campus,1940,0,0,0
+2012,236939,Washington State University,1,Pullman Campus,27679,0,42,224
+2012,236975,Wenatchee Valley College,1,Main Campus,3668,0,0,0
+2012,237011,Western Washington University,1,Bellingham Campus,14833,0,196,402
+2012,237057,Whitman College,1,Whitman College,1539,0,48,32
+2012,237066,Whitworth University,1,Main Campus,2571,0,3,10
+2012,237109,Yakima Valley College,1,Main Campus,4302,0,4,3
+2013,235547,Bastyr University,1,Main Campus,1115,0,0,0
+2013,235671,Bates Technical College,2,South Campus,3704,0,0,0
+2013,234711,Big Bend Community College,1,Main Campus,1991,0,0,0
+2013,234827,Central Washington University,1,Central Washington University,11287,0,120,262
+2013,234845,Centralia College,1,Centralia College,3453,0,0,0
+2013,235024,Cornish College of the Arts,1,Cornish College of the Arts,778,0,23,11
+2013,235097,Eastern Washington University,1,EWU Main Campus,12791,0,9,132
+2013,235103,Edmonds College,1,Main Campus,9070,0,2,1
+2013,235149,Everett Community College,1,Everett Community College,7154,0,0,0
+2013,230889,Goddard College,2,Port Townsend,592,0,0,0
+2013,235316,Gonzaga University,1,Main Campus,7605,3,43,676
+2013,235343,Green River College,1,Main Campus,7801,3,21,1
+2013,235501,International Air and Hospitality Academy,1,Main Campus,266,0,0,0
+2013,380377,Northwest Indian College,1,Lummi Campus,681,0,0,0
+2013,236133,Northwest University,1,Northwest University,1733,0,0,2
+2013,236188,Olympic College,1,Bremerton Campus,7329,0,0,0
+2013,236230,Pacific Lutheran University,1,Main Campus,3462,1,9,48
+2013,236452,Saint Martin's University,1,Saint Martin's University Lacey Campus,1787,1,16,38
+2013,236577,Seattle Pacific University,1,Main Campus,4270,0,17,37
+2013,236595,Seattle University,1,Main Campus,7422,0,129,201
+2013,236638,Skagit Valley College,1,Mount Vernon Campus,4790,0,5,25
+2013,235167,The Evergreen State College,1,Main Campus,4398,0,126,158
+2013,236328,University of Puget Sound,1,Main Campus,2812,0,30,237
+2013,377555,University of Washington-Bothell Campus,1,Bothell Campus,4604,2,15,34
+2013,236948,University of Washington-Seattle Campus,1,Main Campus,43762,0,243,600
+2013,377564,University of Washington-Tacoma Campus,1,Tacoma Campus,4295,0,0,0
+2013,236896,Walla Walla University,1,Main Campus,1917,0,0,1
+2013,236939,Washington State University,1,Pullman Campus,27642,1,97,384
+2013,236975,Wenatchee Valley College,1,Main Campus,3619,0,0,0
+2013,237011,Western Washington University,1,Bellingham Campus,14950,0,180,317
+2013,237057,Whitman College,1,Whitman College,1541,0,22,28
+2013,237066,Whitworth University,1,Main Campus,2569,0,4,22
+2013,237109,Yakima Valley College,1,Main Campus,4105,0,9,0
+2014,235547,Bastyr University,1,Main Campus,1202,0,0,0
+2014,235671,Bates Technical College,2,South Campus,2907,0,0,0
+2014,234711,Big Bend Community College,1,Main Campus,2016,0,1,0
+2014,234827,Central Washington University,1,Central Washington University,11799,0,154,368
+2014,234845,Centralia College,1,Centralia College,3317,0,0,0
+2014,235024,Cornish College of the Arts,1,Cornish College of the Arts,767,0,34,25
+2014,235097,Eastern Washington University,1,EWU Main Campus,13453,1,37,189
+2014,235103,Edmonds College,1,Main Campus,8993,0,0,0
+2014,235149,Everett Community College,1,Everett Community College,7516,0,0,2
+2014,230889,Goddard College,2,Port Townsend,538,0,0,0
+2014,235316,Gonzaga University,1,Main Campus,7352,1,60,735
+2014,235343,Green River College,1,Main Campus,7915,1,33,21
+2014,235501,International Air and Hospitality Academy,1,Main Campus,435,0,0,0
+2014,380377,Northwest Indian College,1,Lummi Campus,637,0,0,0
+2014,236133,Northwest University,1,Northwest University,1862,0,0,0
+2014,236188,Olympic College,1,Bremerton Campus,7349,0,0,0
+2014,236230,Pacific Lutheran University,1,Main Campus,3242,0,14,86
+2014,236452,Saint Martin's University,1,Saint Martin's University Lacey Campus,1801,0,7,25
+2014,236577,Seattle Pacific University,1,Main Campus,4217,0,7,24
+2014,236595,Seattle University,1,Main Campus,7273,0,64,142
+2014,236638,Skagit Valley College,1,Mount Vernon Campus,4993,0,2,15
+2014,235167,The Evergreen State College,1,Main Campus,4219,0,123,73
+2014,236328,University of Puget Sound,1,Main Campus,2826,0,40,171
+2014,377555,University of Washington-Bothell Campus,1,Bothell Campus,4962,0,25,22
+2014,236948,University of Washington-Seattle Campus,1,Main Campus,44784,0,145,593
+2014,377564,University of Washington-Tacoma Campus,1,Tacoma Campus,4477,0,0,0
+2014,236896,Walla Walla University,1,Main Campus,1887,0,7,7
+2014,236896,Walla Walla University,4,Rosario,1887,0,0,0
+2014,236896,Walla Walla University,6,Portland,1887,0,0,0
+2014,236939,Washington State University,1,Pullman Campus,28686,2,292,240
+2014,236975,Wenatchee Valley College,1,Main Campus,3510,0,1,0
+2014,237011,Western Washington University,1,Bellingham Campus,15060,0,225,320
+2014,237057,Whitman College,1,Whitman College,1498,0,36,47
+2014,237066,Whitworth University,1,Main Campus,2654,0,3,31
+2014,237109,Yakima Valley College,1,Main Campus,3950,0,0,1
+2015,235547,Bastyr University,1,Main Campus,1264,0,0,0
+2015,235671,Bates Technical College,2,South Campus,3272,0,0,0
+2015,234711,Big Bend Community College,1,Main Campus,2070,0,2,0
+2015,234827,Central Washington University,1,Central Washington University,11993,0,25,64
+2015,234845,Centralia College,1,Centralia College,3260,0,0,0
+2015,234915,City University of Seattle,17,Seattle - Main,2347,0,5,9
+2015,235024,Cornish College of the Arts,1,Cornish College of the Arts,724,0,18,26
+2015,235097,Eastern Washington University,1,EWU Main Campus,12361,0,65,152
+2015,235103,Edmonds College,1,Main Campus,8571,0,0,1
+2015,235149,Everett Community College,1,Everett Community College,7505,0,0,0
+2015,230889,Goddard College,2,Port Townsend,512,0,0,0
+2015,235316,Gonzaga University,1,Main Campus,7491,1,50,727
+2015,235343,Green River College,1,Main Campus,8153,4,55,17
+2015,235501,International Air and Hospitality Academy,1,Main Campus,122,0,0,0
+2015,235750,Lower Columbia College,1,Lower Columbia College,2969,0,0,0
+2015,380377,Northwest Indian College,1,Lummi Campus,641,0,0,0
+2015,236133,Northwest University,1,Northwest University,1236,0,1,0
+2015,487603,Northwest University-College of Adult and Professional Studies,1,Main Campus,813,0,1,0
+2015,236188,Olympic College,1,Bremerton Campus,7177,0,0,0
+2015,236230,Pacific Lutheran University,1,Main Campus,3170,0,23,76
+2015,236452,Saint Martin's University,1,Saint Martin's University Lacey Campus,1719,0,1,23
+2015,236577,Seattle Pacific University,1,Main Campus,4204,0,16,35
+2015,236595,Seattle University,1,Main Campus,7405,2,67,169
+2015,236638,Skagit Valley College,1,Mount Vernon Campus,5290,0,1,4
+2015,235167,The Evergreen State College,1,Main Campus,4190,0,103,66
+2015,236328,University of Puget Sound,1,Main Campus,2774,0,30,263
+2015,377555,University of Washington-Bothell Campus,1,Bothell Campus,5277,0,27,23
+2015,236948,University of Washington-Seattle Campus,1,Main Campus,45408,0,123,578
+2015,377564,University of Washington-Tacoma Campus,1,Tacoma Campus,4599,0,5,11
+2015,236896,Walla Walla University,1,Main Campus,1840,0,6,2
+2015,236896,Walla Walla University,4,Rosario,1840,0,0,0
+2015,236896,Walla Walla University,6,Portland,1840,0,0,0
+2015,236939,Washington State University,1,Pullman Campus,29686,0,249,204
+2015,236975,Wenatchee Valley College,1,Main Campus,3218,0,0,2
+2015,237011,Western Washington University,1,Bellingham Campus,15332,1,178,263
+2015,237057,Whitman College,1,Whitman College,1470,0,31,27
+2015,237066,Whitworth University,1,Main Campus,2650,0,2,32
+2015,237109,Yakima Valley College,1,Main Campus,3960,0,0,4
+2016,235547,Bastyr University,1,Main Campus,1247,0,0,0
+2016,235671,Bates Technical College,2,South Campus,3291,0,0,0
+2016,234711,Big Bend Community College,1,Main Campus,2193,0,1,4
+2016,234827,Central Washington University,1,Central Washington University,11971,0,10,20
+2016,234845,Centralia College,1,Centralia College,3265,0,0,0
+2016,234915,City University of Seattle,17,Seattle - Main,1874,0,18,10
+2016,235024,Cornish College of the Arts,1,Cornish College of the Arts,674,1,18,10
+2016,235097,Eastern Washington University,1,EWU Main Campus,12279,0,38,79
+2016,235103,Edmonds College,1,Main Campus,8348,0,0,2
+2016,235149,Everett Community College,1,Everett Community College,7619,0,2,2
+2016,230889,Goddard College,2,Port Townsend,505,0,0,0
+2016,235316,Gonzaga University,1,Main Campus,7567,0,80,758
+2016,235343,Green River College,1,Main Campus,8050,1,30,44
+2016,235501,International Air and Hospitality Academy,1,Main Campus,85,0,0,0
+2016,235750,Lower Columbia College,1,Lower Columbia College,2787,0,0,0
+2016,380377,Northwest Indian College,1,Lummi Campus,579,0,0,0
+2016,236133,Northwest University,1,Northwest University,1226,0,0,0
+2016,487603,Northwest University-College of Adult and Professional Studies,1,Main Campus,966,0,0,0
+2016,236188,Olympic College,1,Bremerton Campus,6527,0,2,2
+2016,236230,Pacific Lutheran University,1,Main Campus,3070,0,29,54
+2016,235237,Pierce College District,1,Pierce College Fort Steilacoom,6068,0,0,0
+2016,236452,Saint Martin's University,1,Saint Martin's University Lacey Campus,1586,0,9,49
+2016,236577,Seattle Pacific University,1,Main Campus,4061,0,8,44
+2016,236595,Seattle University,1,Main Campus,7487,0,128,235
+2016,236638,Skagit Valley College,1,Mount Vernon Campus,5086,0,10,27
+2016,235167,The Evergreen State College,1,Main Campus,4089,1,46,47
+2016,236328,University of Puget Sound,1,Main Campus,2791,0,76,173
+2016,377555,University of Washington-Bothell Campus,1,Bothell Campus,5734,1,8,11
+2016,236948,University of Washington-Seattle Campus,1,Main Campus,45591,0,73,371
+2016,377564,University of Washington-Tacoma Campus,1,Tacoma Campus,4987,0,5,11
+2016,236896,Walla Walla University,1,Main Campus,1894,0,4,16
+2016,236896,Walla Walla University,4,Rosario,1894,0,0,0
+2016,236896,Walla Walla University,6,Portland,1894,0,0,0
+2016,236939,Washington State University,1,Pullman Campus,30142,0,180,345
+2016,236975,Wenatchee Valley College,1,Main Campus,3440,0,0,1
+2016,237011,Western Washington University,1,Bellingham Campus,15574,0,194,329
+2016,237039,Whatcom Community College,1,Main Campus,4507,0,0,0
+2016,237057,Whitman College,1,Whitman College,1493,0,44,24
+2016,237066,Whitworth University,1,Main Campus,2634,0,3,17
+2016,237109,Yakima Valley College,1,Main Campus,4101,0,8,2
+2017,235547,Bastyr University,1,Main Campus,1195,0,0,0
+2017,234711,Big Bend Community College,1,Main Campus,1975,0,2,4
+2017,234827,Central Washington University,1,Central Washington University,12901,0,3,48
+2017,234845,Centralia College,1,Centralia College,3122,0,0,0
+2017,234915,City University of Seattle,17,Seattle - Main,2199,0,31,20
+2017,234979,Columbia Basin College,1,Columbia Basin College,6708,0,0,0
+2017,235024,Cornish College of the Arts,1,Cornish College of the Arts,658,0,31,20
+2017,235097,Eastern Washington University,1,EWU Main Campus,12607,0,45,51
+2017,235103,Edmonds College,1,Main Campus,8100,0,2,2
+2017,235149,Everett Community College,1,Everett Community College,7740,0,7,5
+2017,230889,Goddard College,2,Port Townsend,496,0,0,0
+2017,235316,Gonzaga University,1,Main Campus,7506,0,114,610
+2017,235343,Green River College,1,Main Campus,8048,1,16,14
+2017,235501,International Air and Hospitality Academy,1,Main Campus,126,0,0,0
+2017,235750,Lower Columbia College,1,Lower Columbia College,2935,0,0,0
+2017,380377,Northwest Indian College,1,Lummi Campus,544,0,0,0
+2017,236133,Northwest University,1,Northwest University,1250,1,1,8
+2017,487603,Northwest University-College of Adult and Professional Studies,1,Main Campus,1116,1,1,8
+2017,236188,Olympic College,1,Bremerton Campus,6476,0,2,1
+2017,236230,Pacific Lutheran University,1,Main Campus,3122,0,51,71
+2017,235237,Pierce College District,1,Pierce College Fort Steilacoom,6048,0,0,3
+2017,236452,Saint Martin's University,1,Saint Martin's University Lacey Campus,1565,0,8,30
+2017,236513,Seattle Central College,1,Seattle Central College,6928,0,0,0
+2017,236577,Seattle Pacific University,1,Main Campus,3783,0,12,45
+2017,236595,Seattle University,1,Main Campus,7278,0,169,270
+2017,236638,Skagit Valley College,1,Mount Vernon Campus,4670,1,7,8
+2017,235167,The Evergreen State College,1,Main Campus,3907,4,80,84
+2017,236328,University of Puget Sound,1,Main Campus,2701,0,53,156
+2017,377555,University of Washington-Bothell Campus,1,Bothell Campus,5981,0,0,9
+2017,236948,University of Washington-Seattle Campus,1,Main Campus,46166,0,99,406
+2017,377564,University of Washington-Tacoma Campus,1,Tacoma Campus,5162,0,9,20
+2017,236896,Walla Walla University,1,Main Campus,1825,0,2,2
+2017,236896,Walla Walla University,4,Rosario,1825,0,0,0
+2017,236896,Walla Walla University,6,Portland,1825,0,0,0
+2017,236939,Washington State University,1,Pullman Campus,30614,0,259,164
+2017,236975,Wenatchee Valley College,1,Main Campus,3556,0,2,1
+2017,237011,Western Washington University,1,Bellingham Campus,15915,0,213,400
+2017,237039,Whatcom Community College,1,Main Campus,4411,0,6,6
+2017,237057,Whitman College,1,Whitman College,1510,0,48,120
+2017,237066,Whitworth University,1,Main Campus,2627,0,10,39
+2017,237109,Yakima Valley College,1,Main Campus,4007,0,3,4
+2018,235547,Bastyr University,1,Main Campus,1098,0,0,0
+2018,234669,Bellevue College,1,Main Campus,13226,0,5,2
+2018,234711,Big Bend Community College,1,Main Campus,2044,0,0,2
+2018,234827,Central Washington University,1,Central Washington University,12342,0,1,30
+2018,234845,Centralia College,1,Centralia College,3167,0,0,3
+2018,234915,City University of Seattle,17,Seattle - Main,2113,0,2,8
+2018,234979,Columbia Basin College,1,Columbia Basin College,7034,0,16,5
+2018,235024,Cornish College of the Arts,1,Cornish College of the Arts,625,0,2,8
+2018,235097,Eastern Washington University,1,EWU Main Campus,12633,0,19,62
+2018,235103,Edmonds College,1,Main Campus,8041,0,1,2
+2018,235149,Everett Community College,1,Everett Community College,7957,2,6,25
+2018,230889,Goddard College,2,Port Townsend,448,0,0,0
+2018,235316,Gonzaga University,1,Main Campus,7563,0,80,483
+2018,235316,Gonzaga University,2,Gonzaga-In-Florence,7563,0,0,0
+2018,235343,Green River College,1,Main Campus,8471,0,18,6
+2018,235431,Highline College,1,Highline College,6530,0,0,0
+2018,235501,International Air and Hospitality Academy,1,Main Campus,110,0,0,0
+2018,235750,Lower Columbia College,1,Lower Columbia College,2819,0,0,0
+2018,380377,Northwest Indian College,1,Lummi Campus,535,0,0,0
+2018,236133,Northwest University,1,Northwest University,1321,0,0,1
+2018,487603,Northwest University-College of Adult and Professional Studies,1,Main Campus,1155,0,0,1
+2018,236188,Olympic College,1,Bremerton Campus,6620,0,0,0
+2018,236230,Pacific Lutheran University,1,Main Campus,3207,0,9,33
+2018,235237,Pierce College District,1,Pierce College Fort Steilacoom,6067,0,0,0
+2018,236452,Saint Martin's University,1,Saint Martin's University Lacey Campus,1607,0,27,53
+2018,236513,Seattle Central College,1,Seattle Central College,6802,0,0,0
+2018,236577,Seattle Pacific University,1,Main Campus,3688,0,33,64
+2018,236595,Seattle University,1,Main Campus,7291,0,140,212
+2018,236638,Skagit Valley College,1,Mount Vernon Campus,5159,0,1,17
+2018,235167,The Evergreen State College,1,Main Campus,3327,0,74,38
+2018,236328,University of Puget Sound,1,Main Campus,2666,0,47,110
+2018,377555,University of Washington-Bothell Campus,1,Bothell Campus,5970,0,0,2
+2018,236948,University of Washington-Seattle Campus,1,Main Campus,47400,0,307,644
+2018,377564,University of Washington-Tacoma Campus,1,Tacoma Campus,5354,0,4,13
+2018,236896,Walla Walla University,1,Main Campus,1854,0,6,5
+2018,236896,Walla Walla University,4,Rosario,1854,0,0,0
+2018,236896,Walla Walla University,6,Portland,1854,0,0,0
+2018,236939,Washington State University,1,Pullman Campus,31478,0,246,169
+2018,236939,Washington State University,4,Tri Cities,31478,0,0,0
+2018,236975,Wenatchee Valley College,1,Main Campus,3444,0,0,0
+2018,237011,Western Washington University,1,Bellingham Campus,16121,0,161,270
+2018,237011,Western Washington University,2,WWU at Shannon Point Marine Center,16121,0,0,0
+2018,237011,Western Washington University,3,WWU at Bremerton Center at Olympic College,16121,0,0,0
+2018,237011,Western Washington University,4,WWU at Everett University Center,16121,0,0,0
+2018,237039,Whatcom Community College,1,Main Campus,4263,0,4,3
+2018,237057,Whitman College,1,Whitman College,1475,0,24,184
+2018,237066,Whitworth University,1,Main Campus,2776,0,5,17
+2018,237109,Yakima Valley College,1,Main Campus,4456,0,0,10
+2019,235547,Bastyr University,1,Main Campus,994,0,0,0
+2019,234669,Bellevue College,1,Main Campus,12563,0,5,14
+2019,234711,Big Bend Community College,1,Main Campus,2131,0,2,3
+2019,234827,Central Washington University,1,Central Washington University,11658,0,7,90
+2019,234845,Centralia College,1,Centralia College,3077,0,1,1
+2019,234915,City University of Seattle,17,Seattle - Main,1960,0,2,12
+2019,234979,Columbia Basin College,1,Columbia Basin College,7280,0,1,3
+2019,235024,Cornish College of the Arts,1,Cornish College of the Arts,602,0,2,12
+2019,235097,Eastern Washington University,1,EWU Main Campus,12410,0,32,15
+2019,235103,Edmonds College,1,Main Campus,7877,0,1,0
+2019,235149,Everett Community College,1,Everett Community College,7977,0,0,0
+2019,230889,Goddard College,2,Port Townsend,340,0,0,0
+2019,235316,Gonzaga University,1,Main Campus,7537,0,76,719
+2019,235316,Gonzaga University,2,Gonzaga-In-Florence,7537,0,0,0
+2019,235343,Green River College,1,Main Campus,8435,0,11,17
+2019,235431,Highline College,1,Highline College,6310,0,0,6
+2019,235501,International Air and Hospitality Academy,1,Main Campus,112,0,0,0
+2019,235750,Lower Columbia College,1,Lower Columbia College,2703,0,1,0
+2019,380377,Northwest Indian College,1,Lummi Campus,594,0,0,0
+2019,236133,Northwest University,1,Northwest University,1339,0,0,14
+2019,487603,Northwest University-College of Adult and Professional Studies,1,Main Campus,1130,0,0,14
+2019,236188,Olympic College,1,Bremerton Campus,6278,0,0,0
+2019,236230,Pacific Lutheran University,1,Main Campus,3062,0,19,29
+2019,235237,Pierce College District,1,Pierce College Fort Steilacoom,6195,0,0,0
+2019,236452,Saint Martin's University,1,Saint Martin's University Lacey Campus,1629,0,6,34
+2019,236513,Seattle Central College,1,Seattle Central College,6743,0,0,0
+2019,236577,Seattle Pacific University,1,Main Campus,3529,0,31,72
+2019,236595,Seattle University,1,Main Campus,7199,0,90,162
+2019,236610,Shoreline Community College,1,Shoreline Community College,5884,0,0,3
+2019,236638,Skagit Valley College,1,Mount Vernon Campus,5085,0,3,25
+2019,235167,The Evergreen State College,1,Main Campus,2854,2,20,24
+2019,236328,University of Puget Sound,1,Main Campus,2608,0,35,78
+2019,377555,University of Washington-Bothell Campus,1,Bothell Campus,5913,0,0,4
+2019,236948,University of Washington-Seattle Campus,1,Main Campus,47576,1,145,498
+2019,377564,University of Washington-Tacoma Campus,1,Tacoma Campus,5329,0,1,1
+2019,236896,Walla Walla University,1,Main Campus,1831,0,1,2
+2019,236896,Walla Walla University,4,Rosario,1831,0,0,0
+2019,236896,Walla Walla University,6,Portland,1831,0,0,0
+2019,236939,Washington State University,1,Pullman Campus,31607,0,279,162
+2019,236939,Washington State University,4,Tri Cities,31607,0,0,0
+2019,236975,Wenatchee Valley College,1,Main Campus,3352,0,0,0
+2019,237011,Western Washington University,1,Bellingham Campus,16142,0,147,244
+2019,237011,Western Washington University,2,WWU at Shannon Point Marine Center,16142,0,0,0
+2019,237011,Western Washington University,3,WWU at Bremerton Center at Olympic College,16142,0,0,0
+2019,237039,Whatcom Community College,1,Main Campus,4152,0,0,0
+2019,237057,Whitman College,1,Whitman College,1579,0,27,161
+2019,237066,Whitworth University,1,Main Campus,2814,0,1,4
+2019,237109,Yakima Valley College,1,Main Campus,4650,0,2,0
+2020,235547,Bastyr University,1,Main Campus,904,0,0,0
+2020,234669,Bellevue College,1,Main Campus,12286,1,6,12
+2020,234711,Big Bend Community College,1,Main Campus,1892,0,0,0
+2020,234827,Central Washington University,1,Central Washington University,11174,0,2,43
+2020,234845,Centralia College,1,Centralia College,2314,0,1,1
+2020,234915,City University of Seattle,17,Seattle - Main,2052,0,0,0
+2020,234979,Columbia Basin College,1,Columbia Basin College,6745,0,1,9
+2020,235024,Cornish College of the Arts,1,Cornish College of the Arts,482,0,0,0
+2020,235097,Eastern Washington University,1,EWU Main Campus,12349,0,15,21
+2020,235103,Edmonds College,1,Main Campus,6545,0,0,0
+2020,235149,Everett Community College,1,Everett Community College,7580,0,0,0
+2020,230889,Goddard College,2,Port Townsend,366,0,0,0
+2020,235316,Gonzaga University,1,Main Campus,7295,0,72,375
+2020,235316,Gonzaga University,2,Gonzaga-In-Florence,7295,0,0,0
+2020,235343,Green River College,1,Main Campus,7493,0,10,8
+2020,235431,Highline College,1,Highline College,5829,0,0,0
+2020,235501,International Air and Hospitality Academy,1,Main Campus,107,0,0,0
+2020,235750,Lower Columbia College,1,Lower Columbia College,2325,0,0,0
+2020,380377,Northwest Indian College,1,Lummi Campus,555,0,0,0
+2020,236133,Northwest University,1,Northwest University,1184,0,1,2
+2020,487603,Northwest University-College of Adult and Professional Studies,1,Main Campus,1215,0,1,2
+2020,236188,Olympic College,1,Bremerton Campus,5357,0,0,0
+2020,236230,Pacific Lutheran University,1,Main Campus,2907,0,14,13
+2020,235237,Pierce College District,1,Pierce College Fort Steilacoom,8329,0,0,0
+2020,236452,Saint Martin's University,1,Saint Martin's University Lacey Campus,1638,0,8,16
+2020,236513,Seattle Central College,1,Seattle Central College,5763,0,0,0
+2020,236577,Seattle Pacific University,1,Main Campus,3601,0,11,21
+2020,236595,Seattle University,1,Main Campus,7050,0,38,74
+2020,236610,Shoreline Community College,1,Shoreline Community College,5382,0,3,7
+2020,236638,Skagit Valley College,1,Mount Vernon Campus,4227,0,1,21
+2020,235167,The Evergreen State College,1,Main Campus,2281,0,6,2
+2020,236328,University of Puget Sound,1,Main Campus,2130,0,13,15
+2020,377555,University of Washington-Bothell Campus,1,Bothell Campus,6304,0,0,10
+2020,236948,University of Washington-Seattle Campus,1,Main Campus,48149,0,48,221
+2020,377564,University of Washington-Tacoma Campus,1,Tacoma Campus,5364,0,0,1
+2020,236896,Walla Walla University,1,Main Campus,1737,0,0,3
+2020,236896,Walla Walla University,4,Rosario,1737,0,0,0
+2020,236896,Walla Walla University,6,Portland,1737,0,0,0
+2020,236939,Washington State University,1,Pullman Campus,31159,0,98,108
+2020,236939,Washington State University,4,Tri Cities,31159,0,0,0
+2020,236975,Wenatchee Valley College,1,Main Campus,3090,0,0,0
+2020,237011,Western Washington University,1,Bellingham Campus,15197,1,102,104
+2020,237011,Western Washington University,2,WWU at Shannon Point Marine Center,15197,0,0,0
+2020,237039,Whatcom Community College,1,Main Campus,2719,0,0,0
+2020,237057,Whitman College,1,Whitman College,1360,0,23,62
+2020,237066,Whitworth University,1,Main Campus,2756,0,0,0
+2020,237109,Yakima Valley College,1,Main Campus,3954,0,0,3
+2020,237109,Yakima Valley College,2,Grand View Campus,3954,0,0,0
