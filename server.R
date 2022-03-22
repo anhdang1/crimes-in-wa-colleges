@@ -27,7 +27,7 @@ disciplinary_on_campus <- disciplinary_on_campus %>%
 disciplines_list <- colnames(disciplinary_on_campus)
 disciplines_list <- disciplines_list[7:10]
 
-count_range <- range(discip_oncampus_public$Survey.year)
+count_range <- range(disciplinary_on_campus$Survey.year)
 
 custom_legend_titles <- reactiveValues("Illegal Weapons" = "Illegal_weapons",
                                        "Drug Law Action" = "Drug_law",
@@ -100,7 +100,7 @@ server <- function(input, output) {
       
 
       compare <- ggplot(data = types_filter) +
-        geom_point(mapping= aes(x=Survey.year, y = Num_crimes, color = "red"), position = "dodge") +
+        geom_point(mapping= aes(x=Survey.year, y = Num_crimes, color = "red")) +
         theme(legend.position="none")+
         labs(title = 'Disciplinary Actions By Types', x='Year', y='Total crimes',
              fill = custom_legend_titles[[input$user_types]])

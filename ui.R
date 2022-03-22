@@ -30,7 +30,8 @@ disciplinary_on_campus <- disciplinary_on_campus %>%
 disciplines_list <- colnames(disciplinary_on_campus)
 disciplines_list <- disciplines_list[7:10]
 
-count_range <- range(discip_oncampus_public$Survey.year)
+count_range <- range(disciplinary_on_campus$Survey.year)
+draft <- pivot_longer(disciplinary_on_campus, 5:7, names_to = "Disciplinary_actions", values_to = "Num_crimes")
 
 #Data for disciplinary types
 disciplinary_types <- disciplinary_on_campus %>% group_by(Survey.year) %>% summarize(Illegal_weapons = sum(Illegal_weapons),
@@ -43,6 +44,18 @@ discip_types_table <- disciplinary_types %>%
 custom_legend_titles <- reactiveValues("Illegal_weapons" = "Illegal Weapons", "Drug_law" = "Drug Law Action", "Liquor_law" = "Liquor Law Action")
 
 
+#convert values to numeric
+criminal_offenses_table <- as.numeric(criminal_offenses$Negligent.manslaughter,
+                                      criminal_offenses$Rape,
+                                      criminal_offenses$Robbery,
+                                      criminal_offenses$Burglary,
+                                      criminal_offenses$Motor.vehicle.theft,
+                                      criminal_offenses$Arson
+)
+#drop NA values and mutate total crimes in criminal offense table
+criminal_offenses_table <- criminal_offenses %>%
+  drop_na(Negligent.manslaughter,Rape,Robbery,Burglary,Motor.vehicle.theft, Arson) %>%
+  mutate(Total = Negligent.manslaughter + Rape + Robbery + Burglary + Motor.vehicle.theft + Arson)
 
 
 
@@ -53,7 +66,7 @@ ui <- fluidPage(
              tabPanel(
                "Introduction",
                #HTML('<div class= "header">Crimes Across WA Colleges</div>'),
-               titlePanel(HTML('<h1 style="color:#104E8B;"> Crime across Washington Colleges </h1>',
+               titlePanel(HTML('<h1 style="color:#722F37;"> Crime across Washington Colleges </h1>',
                                '<h4> Author: Anh Dang</h4>')),
                hr(),
                #tags$div(class = "header", "Crime across Washington Colleges", style = "font-size:30px;"),
@@ -62,15 +75,15 @@ ui <- fluidPage(
                HTML('<a href = "https://ope.ed.gov/campussafety/#/" >Data Drawn from Campus Safety and Security</a>'),
                          p("Crimes Across WA Colleges From 2001 to 2020!"),
                          mainPanel(#img(src = "/image/cat_dog.png", height = 300, width = 400, align = "center"),
-                           textOutput("introduction"),
-                           textOutput("Value")
+                           # textOutput("introduction"),
+                           # textOutput("Value")
                          )
                )
              ,
                
              
              tabPanel("Trends", 
-                      titlePanel(HTML('<h1 style="color:#104E8B;"> Disciplinary Actions Trends </h1>')),
+                      titlePanel(HTML('<h1 style="color:#722F37;"> Disciplinary Actions Trends </h1>')),
                       hr(),
                       # Side bar layout
                       sidebarLayout(
@@ -92,12 +105,12 @@ ui <- fluidPage(
 
                         # Main Panel
                         mainPanel(
-                          plotlyOutput(outputId = "wa_colleges_plot"),
+                          plotlyOutput(outputId = "wa_colleges_plot")
                         ) 
                       )),
              tabPanel("Disciplinary Types",
                       # Side bar layout
-                      titlePanel(HTML('<h1 style="color:#104E8B;"> Disciplinary Actions Types </h1>')),
+                      titlePanel(HTML('<h1 style="color:#722F37;"> Disciplinary Actions Types </h1>')),
                       hr(),
                       sidebarLayout(
                         sidebarPanel(
@@ -112,16 +125,16 @@ ui <- fluidPage(
                           )
                         ),
                         mainPanel(
-                          plotlyOutput(outputId = "disiplinary_comparisonPlot"),
+                          plotlyOutput(outputId = "disiplinary_comparisonPlot")
 
                         )
                       )),
              tabPanel("Crime Table",
                       fluidPage(
-                        titlePanel(HTML('<h1 style="color:#104E8B;"> Crime Data Table </h1>')),
+                        titlePanel(HTML('<h1 style="color:#722F37;"> Crime Data Table </h1>')),
                         hr(),
-                        HTML('<h4 style="color:#104E8B;"> How to use this table:</h4>'),
-                        HTML('<p style ="color::#104E8B;"> The table allow users to get the number of crimes on campus by filtering year and institution. University of Washington - Seattle Campus is found to be one of the campuses with the highest number of crimes.'),
+                        HTML('<h4 style="color:"darkorchid4";"> How to use this table:</h4>'),
+                        HTML('<p style ="color::"darkorchid4";"> The table allow users to get the number of crimes on campus by filtering year and institution. University of Washington - Seattle Campus is found to be one of the campuses with the highest number of crimes.'),
                         fluidRow(
                           column(4,
                                  selectInput("year",

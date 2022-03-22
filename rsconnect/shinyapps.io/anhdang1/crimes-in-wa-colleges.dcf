@@ -1,0 +1,13 @@
+name: crimes-in-wa-colleges
+title: crimes-in-wa-colleges
+username:
+account: anhdang1
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5905983
+bundleId: 5714578
+url: https://anhdang1.shinyapps.io/crimes-in-wa-colleges/
+when: 1647978080.70476
+lastSyncTime: 1647978080.70476
+asMultiple: FALSE
+asStatic: FALSE
