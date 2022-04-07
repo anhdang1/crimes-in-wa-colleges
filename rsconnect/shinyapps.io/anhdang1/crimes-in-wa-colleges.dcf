@@ -5,9 +5,9 @@ account: anhdang1
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 5905983
-bundleId: 5714578
+bundleId: 5773258
 url: https://anhdang1.shinyapps.io/crimes-in-wa-colleges/
-when: 1647978080.70476
-lastSyncTime: 1647978080.70476
+when: 1649316721.34946
+lastSyncTime: 1649316721.34946
 asMultiple: FALSE
 asStatic: FALSE

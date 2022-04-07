@@ -75,7 +75,7 @@ ui <- fluidPage(
                HTML('<a href = "https://ope.ed.gov/campussafety/#/" >Data Drawn from Campus Safety and Security</a>'),
                          p("Crimes Across WA Colleges From 2001 to 2020!"),
                          mainPanel(#img(src = "/image/cat_dog.png", height = 300, width = 400, align = "center"),
-                           # textOutput("introduction"),
+                           textOutput("introduction"),
                            # textOutput("Value")
                          )
                )
@@ -152,12 +152,7 @@ ui <- fluidPage(
                       )
                       ),
                         
-             #            
-             # tabPanel(
-             #   "Conclusion",
-             #             p("Welcome to The End!"),
-             #                       textOutput("conclusion")
-             #                       ),
+
   )
 )
 

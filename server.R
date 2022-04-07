@@ -124,8 +124,8 @@ server <- function(input, output) {
       criminal_offenses_table
       
     }))
+    output$introduction <- renderText({"Campus Safety has always been one of the biggest concern in students' life. This website provides filtering, pagination, and sorting of crime rate data across Washington Colleges, focusing on Disciplinary Actions and On-Campus Criminal Offenses."})
 
-  
 }
 
 
